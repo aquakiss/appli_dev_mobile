@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestLabo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_world_tv">Hello World !</string>
+    <string name="change_text_bt">Changer le texte</string>
+    <string name="change_activity_bt">Creer/Modifier</string>
+    <string name="change_activity2_bt">Utiliser une liste</string>
+    <string name="change_activity3_bt">Personnaliser</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="name_app_actvity">My Caddy</string>
+    <string name="create_liste_activity">Céer/Modifier</string>
+    <string name="person_activity">Personnaliser</string>
+    <string name="use_list_activity">Utiliser une liste</string>
+    <string name="remove_element_activity">-</string>
+    <string name="add_element_activity">+</string>
+    <string name="title_activity_use_liste">Utiliser la liste</string>
+    <string name="quantity">Nbr</string>
+    <string name="name_produit">Produit</string>
+    <string name="cat_button">Catégorie</string>
+    <string name="name_button">Nom</string>
+    <string name="order_button">Ordre d\'entré</string>
+    
+    
+    <string-array name="activity2_spin_catg">
+        <item>@drawable/ajout</item>
+        <item>0</item>
+    </string-array>
+    
+    <string-array name="activity2_spin_nbr">
+     <item>Kg</item>
+     <item>Litre</item>
+     <item>Lama</item>
+     <item>Unité</item>
+     
+    </string-array>
+</resources>
